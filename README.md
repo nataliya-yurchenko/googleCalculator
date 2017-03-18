@@ -12,7 +12,7 @@ Steps:
 2. Open INTELLIJ IDEA > in appeared windows select option "Import Project"
 3. Select folder with cloned project
 4. Pass through all wizard configuring steps
-5. In Maven Projects select clean+test in Lifecycle -> click Run Maven Build or
-Navigate to GoogleCalculator -> src -> test -> testCalculator -> Run 'googleVerifyCalcTest.java'
+5. In Maven Projects select clean+test in Lifecycle -> click Run Maven Build
+6. Or Navigate to GoogleCalculator -> src -> test -> testCalculator -> Run 'googleVerifyCalcTest.java'
 
 
