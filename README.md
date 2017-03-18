@@ -8,11 +8,11 @@ Requirments:
 
 
 Steps:
-1. Clone project from from git repository
+1. Clone project from from git repository via GitBash
 2. Open INTELLIJ IDEA > in appeared windows select option "Import Project"
-3. Select folder with cloned project you need to have a deal
+3. Select folder with cloned project
 4. Pass through all wizard configuring steps
-5. Navigate to GoogleCalculator -> src -> test -> testCalculator 
-6. Run 'googleVerifyCalcTest.java'
+5. 1 In Maven Projects select clean+test in Lifecycle -> click Run Maven Build or
+5. 2 Navigate to GoogleCalculator -> src -> test -> testCalculator -> Run 'googleVerifyCalcTest.java'
 
 
