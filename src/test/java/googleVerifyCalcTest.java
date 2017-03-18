@@ -184,7 +184,7 @@ public class googleVerifyCalcTest {
     }
 
     @Test
-    public void testNotPossibileSetLetters() throws IOException {
+    public void testNotPossibleSetLetters() throws IOException {
         calcPage.calcResutlEqual("0");
         $(By.cssSelector(InputCalculator)).sendKeys("zx");
         calcPage.buttonSum();
