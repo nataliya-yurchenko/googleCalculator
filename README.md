@@ -8,11 +8,11 @@ Requirments:
 
 
 Steps:
-•	Clone project from from git repository
-•	Open INTELLIJ IDEA > in appeared windows select option "Import Project"
-•	Select folder with cloned project you need to have a deal
-•	Pass through all wizard configuring steps
-•	Navigate to GoogleCalculator -> src -> test -> testCalculator 
-•	Run 'googleVerifyCalcTest.java'
+1. Clone project from from git repository
+2. Open INTELLIJ IDEA > in appeared windows select option "Import Project"
+3. Select folder with cloned project you need to have a deal
+4. Pass through all wizard configuring steps
+5. Navigate to GoogleCalculator -> src -> test -> testCalculator 
+6. Run 'googleVerifyCalcTest.java'
 
 
