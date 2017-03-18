@@ -18,8 +18,12 @@
 *.tar.gz
 *.rar
 
-/.idea
+.idea
 /target
 build/
 src/main/
 src/test/java/testCalculator/
+GoogleCalculator.iml
+/libraries
+
+
