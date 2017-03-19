@@ -1,9 +1,6 @@
-//import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
-//import org.openqa.selenium.WebDriver;
-//import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.io.IOException;
 import static com.codeborne.selenide.Selenide.*;
@@ -19,7 +16,7 @@ public class googleVerifyCalcTest {
     private String CancelButton = "#cwbt06";
     private String ButtonSeven = "#cwbt13";
     private String ButtonPlus = "#cwbt46";
-    private String InputCalculator = "#cwos";
+    private String InputCalculator = "#cwtlbb";
 
 
     @Before
